@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Reto de datos FP20"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ee4ea82f-abb9-4957-a962-6903e436cb2f"
+  }
+}
